@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rongeoffrey
-- 👀 I’m interested in Games and Animes
-- 🌱 I’m currently learning Front-end languages (HTML, CSS, JS)
-- 💞️ I’m looking to collaborate on diffeent projects regarding web development
+- 👀 Interested in Web Deisgn/ 
+- 🌱 Front-end languages (HTML, CSS, JS) Back-end Languages (Java)
+- 💞️ Looking to collaborate on diffeent projects regarding web development
 - 📫 aaronmarasigangeoffrey@gmail.com
 
 <!---
