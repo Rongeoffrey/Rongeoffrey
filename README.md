@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rongeoffrey
 - 👀 Interested in Web Deisgn/ 
-- 🌱 Front-end languages (HTML, CSS, JS) Back-end Languages (Java)
+- 🌱 Technical: Front-end, HTML, CSS, JavaScript, React.js, Git)
 - 💞️ Looking to collaborate on diffeent projects regarding web development
 - 📫 aaronmarasigangeoffrey@gmail.com
 
