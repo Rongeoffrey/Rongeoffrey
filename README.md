@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rongeoffrey
-- 👀 Interested in Web Deisgn/ 
-- 🌱 Technical: Front-end, HTML, CSS, JavaScript, React.js, Git)
-- 💞️ Looking to collaborate on diffeent projects regarding web development
+- 👀 Interested in Web Design/ Web Development 
+- 🌱 Technical: Front-end, HTML, CSS, JavaScript, React.js, and Git
+- 💞️ Looking to collaborate on different projects regarding web development
 - 📫 aaronmarasigangeoffrey@gmail.com
 
 <!---
